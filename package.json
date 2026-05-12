@@ -1,19 +1,23 @@
 {
-    "name": "backend-haruy-sushi",
+    "name": "namiradocupido-backend-main",
     "version": "1.0.0",
-    "description": "API REST Haruy Sushi — Aula 6: Middlewares e Tratamento de Erros",
+    "description": "API REST Na Mira Do Cupido",
     "main": "server.js",
     "scripts": {
         "start": "node server.js",
         "dev": "nodemon server.js"
     },
     "keywords": [
-        "api",
-        "sushi",
-        "backend",
-        "middleware"
-    ],
-    "author": "Adriano",
+  "api",
+  "backend",
+  "nodejs",
+  "express",
+  "supabase",
+  "rest",
+  "crud",
+  "database"
+],
+    "author": "Eloize",
     "license": "ISC",
     "dependencies": {
         "@supabase/ssr": "^0.10.3",
