@@ -8,15 +8,15 @@
         "dev": "nodemon server.js"
     },
     "keywords": [
-  "api",
-  "backend",
-  "nodejs",
-  "express",
-  "supabase",
-  "rest",
-  "crud",
-  "database"
-],
+        "api",
+        "backend",
+        "nodejs",
+        "express",
+        "supabase",
+        "rest",
+        "crud",
+        "database"
+    ],
     "author": "Eloize",
     "license": "ISC",
     "dependencies": {
@@ -24,7 +24,7 @@
         "@supabase/supabase-js": "^2.105.3",
         "cors": "^2.8.6",
         "dotenv": "^17.4.2",
-        "express": "^4.22.1"
+        "express": "^4.22.2"
     },
     "devDependencies": {
         "nodemon": "^3.0.1"
